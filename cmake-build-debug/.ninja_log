@@ -1,0 +1,17 @@
+# ninja log v5
+66	709	6818391022766603	CMakeFiles/DataStructuresTraining.dir/Queues/CircularQueue.cpp.obj	ff2391f91a806081
+56	661	6818391022393666	CMakeFiles/DataStructuresTraining.dir/Queues/SimpleQueue.cpp.obj	392dd1815a49ebcd
+749	1405	6818391029999869	CMakeFiles/DataStructuresTraining.dir/Trees/BinaryTree/BinaryTree.cpp.obj	431ab40ed41ba986
+47	749	6818391023206058	CMakeFiles/DataStructuresTraining.dir/main.cpp.obj	31dcde39e6a38376
+41	694	6818391022806497	CMakeFiles/DataStructuresTraining.dir/Stacks/Stack.cpp.obj	ac8e29b054192ba5
+1673	1868	6818391034588057	DataStructuresTraining.exe	24409cdd77eb9791
+20	298	6819142008719570	build.ninja	728b6265c15cea7
+51	716	6818391022896255	CMakeFiles/DataStructuresTraining.dir/Stacks/StackBasedLinkedlist.cpp.obj	1afd0d41605f8e75
+61	703	6818391022776574	CMakeFiles/DataStructuresTraining.dir/Linkedlist/SinglyLinkedlist.cpp.obj	62679783a3bf4a11
+694	1312	6818391028889819	CMakeFiles/DataStructuresTraining.dir/Queues/QueueBasedLinkedlist.cpp.obj	34c2d5374be6c9f
+663	1360	6818391029548494	CMakeFiles/DataStructuresTraining.dir/Vector/Vector.cpp.obj	15eec7a1a25d81e1
+703	1306	6818391028859897	CMakeFiles/DataStructuresTraining.dir/Linkedlist/DoublyLinkedlist.cpp.obj	b81bea6ec1cf42a5
+718	1325	6818391029152043	CMakeFiles/DataStructuresTraining.dir/Trees/BinarySearchTree/BinarySearchTree.cpp.obj	fbdf0db8163d552f
+709	1293	6818391028820008	CMakeFiles/DataStructuresTraining.dir/Trees/BinaryHeap/BinaryHeap.cpp.obj	6000a145035f2b8d
+1306	1673	6818391032677889	CMakeFiles/DataStructuresTraining.dir/Trees/AVLTree/AVLTree.cpp.obj	b482634c29b9e975
+1293	1668	6818391032638207	CMakeFiles/DataStructuresTraining.dir/Trees/LetterTree/Trie.cpp.obj	6d4c18df4f10b256
